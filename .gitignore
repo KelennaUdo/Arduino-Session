@@ -1,0 +1,7 @@
+# Keep the challenge files out of commits.
+/06_scanner_challenge_starter/
+/06_scanner_challenge_starter_solved/
+
+# Local operating-system files.
+.DS_Store
+Thumbs.db
